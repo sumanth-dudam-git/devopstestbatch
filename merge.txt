@@ -1,3 +1,4 @@
 Added 2nd line
 Added 2nd line
 This is from conflict branch
+Added 3 rdline from git remotet repositor
