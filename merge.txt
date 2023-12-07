@@ -1,1 +1,1 @@
-Creating merge conflicts
+This is from conflict branch
